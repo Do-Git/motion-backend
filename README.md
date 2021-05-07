@@ -1,4 +1,4 @@
-# motion-backend
+# Social network-Backend
 
 Complete backend that can be used for a standard social network.
 
